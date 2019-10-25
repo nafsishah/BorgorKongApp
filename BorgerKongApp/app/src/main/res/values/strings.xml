@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Borger Kong App</string>
+    <string name="textview"><u>TextView</u></string>
+    <string name="TITLE">BORGOR KONG</string>
+    <string name="menu_title">MENU</string>
+    <string name="image" />
+    <string name="food">food name</string>
+    <string name="borgor_kong">borgor kong</string>
+    <string name="img3">img3</string>
+    <string name="img4">img4</string>
+    <string name="food4">food4</string>
+    <string name="img5">img5</string>
+    <string name="viewOrder">View Order</string>
+    <string name="price">price</string>
+    <string name="my_order">MY ORDER</string>
+    <string name="order">order</string>
+    <string name="addtocart">Add to Cart</string>
+    <string name="return_to_top">Back to Top</string>
+</resources>
